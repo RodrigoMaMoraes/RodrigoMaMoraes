@@ -1,7 +1,7 @@
 ### Olá eu sou o Rodrigo Mateus 👋
 
 - 🔭 Não estou trabalhando ainda, estou estudando para poder ingressar no mercado!
-- 🌱 Estudando HTML, CSS, JavaScrypt
+- 🌱 Estudando HTML, CSS, JavaScrypt e JAVA
 - 😄 Pronouns: ele/dele
 
 
